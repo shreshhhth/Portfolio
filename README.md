@@ -1,12 +1,40 @@
-# React + Vite
+# 🌐 My Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences as a developer. It's designed to give visitors a quick overview of who I am and what I can do.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[View Live Site](https://your-domain.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Features
+
+- Responsive and modern UI
+- About Me section
+- Projects showcase with links
+- Contact form / contact info
+- Downloadable resume
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework:** React + Vite
+- **Styling:** Tailwind CSS / CSS / Styled-Components
+- **Deployment:** Vercel
+- **Others:** EmailJS (for contact form)
+
+---
+
+## 📬 Contact
+Feel free to reach out if you'd like to connect:
+
+- **Email:** shreshthsharma68@gmail.com
+
+- **LinkedIn:** www.linkedin.com/in/shreshth-sharma8
+
+- **GitHub:** https://github.com/shreshhhth
+
+

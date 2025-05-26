@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 
 ## 🚀 Live Demo
 
-[View Live Site]([https://your-domain.com](https://portfolio-kappa-three-17.vercel.app/))
+[View Live Site]([https://your-domain.com](https://portfolio-kappa-three-17.vercel.app/])
 
 ---
 

@@ -29,9 +29,11 @@ const Projects = () => {
                ))}
             </div>
             {/*Project Page */}
-            <div className="flex justify-between items-center">
-              <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">View Project <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
+            <div className="flex justify-around items-center">
+              <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Live Project <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
+              <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Project Docs <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
             </div>
+            
           </div>
           <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all">
             <h3 className="text-xl font-bold mb-2">BrainBox - LMS Web App</h3>
@@ -45,8 +47,9 @@ const Projects = () => {
                ))}
             </div>
             {/*Project Page */}
-            <div className="flex justify-between items-center">
+            <div className="flex justify-around items-center">
               <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">View Project <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
+              <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Project Docs <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
             </div>
           </div>
         </div>

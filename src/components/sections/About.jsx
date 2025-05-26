@@ -66,14 +66,14 @@ const About = () => {
             <h3 className="text-xl font-bold mb-4 "> 🎓 Education </h3>
             <ul className="list-disc list-inside text-gray-300 space-y-2 ">
               <li><strong>B.Tech in Electronics & Communication</strong> - JSS Academy of Technical Education, Noida (2019-2023)</li>
-              <li>Relevent CourseWork: C/C++, Python,  </li>
+              <li>Relevent CourseWork: C/C++, Python, Control Systems.  </li>
             </ul>
           </div>
           <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
             <h3 className="text-xl font-bold mb-4 "> 💼 Work Experience </h3>
             <div className="space-y-4 text-gray-300 ">
               <div>
-                <h4 className="font-semibold">Web Developer Intern at Statcon Electronics India Ltd. (AUG-2023 - JAN 2024)</h4>
+                <h4 className="font-semibold">Web Developer Intern at Statcon Electronics India Ltd. (Aug-2023 - Jan 2024)</h4>
                 <p>Successfully managed and maintained web interfaces, improving site visits by 10%.</p>
               </div>
 

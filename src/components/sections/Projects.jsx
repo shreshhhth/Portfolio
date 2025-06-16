@@ -30,7 +30,8 @@ const Projects = () => {
             </div>
             {/*Project Page */}
             <div className="flex justify-around items-center">
-              <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Live Project <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
+              <a href="https://e-commerce-frontend-zkr3.onrender.com/" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Live Project <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
+              <a href="https://e-commerce-admin-fd3o.onrender.com/" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Admin Panel<span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
               <a href="#" className="flex items-center justify-between gap-2 text-blue-400 hover:text-blue-300 transition-colors my-4">Project Docs <span><ArrowRightIcon className="h-4 w-4 text-inherit" /></span></a>
             </div>
             
